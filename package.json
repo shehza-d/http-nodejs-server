@@ -1,0 +1,22 @@
+{
+  "name": "http-nodejs-server",
+  "version": "1.0.0",
+  "description": "a simple server using only HTTP methods without using ExpressJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehza-d/http-nodejs-server.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "shehzad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shehza-d/http-nodejs-server/issues"
+  },
+  "homepage": "https://github.com/shehza-d/http-nodejs-server#readme"
+}
